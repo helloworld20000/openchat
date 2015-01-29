@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">OpenChat</string>
+	<string name="hello_world">Hello World</string>
+	<string name="title_activity_hello_world">Hello World</string>
+	<string name="menu_settings">Menu Settings</string>
+</resources>
